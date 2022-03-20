@@ -52,4 +52,4 @@ http://127.0.0.1:9999
 # 参考资料 & 致谢
 [1] [KOP-XIAO (Github)](https://github.com/KOP-XIAO)  
 [2] [w37fhy (Github)](https://github.com/w37fhy)  
-[2] [chavyleung BoxJS](https://chavyleung.gitbook.io/boxjs/)
+[3] [chavyleung BoxJS](https://chavyleung.gitbook.io/boxjs/)
